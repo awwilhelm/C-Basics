@@ -1,0 +1,5 @@
+/Users/LeBorg/Projects/Basics/Basics/bin/Debug/Basics.exe
+/Users/LeBorg/Projects/Basics/Basics/bin/Debug/Basics.pdb
+/Users/LeBorg/Projects/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/LeBorg/Projects/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/LeBorg/Projects/Basics/Basics/obj/x86/Debug/Basics.pdb

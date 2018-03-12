@@ -1,0 +1,3 @@
+/Users/LeBorg/Projects/Basics/Basics/bin/Release/Basics.exe
+/Users/LeBorg/Projects/Basics/Basics/obj/x86/Release/Basics.csproj.CoreCompileInputs.cache
+/Users/LeBorg/Projects/Basics/Basics/obj/x86/Release/Basics.exe
